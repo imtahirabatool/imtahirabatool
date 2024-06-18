@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="imtahirabatool" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtahirabatool" alt="imtahirabatool" /></a> </p>
-
 - 📝 I regularly write articles on [https://medium.com/@imtahirabatool](https://medium.com/@imtahirabatool)
 
-- 🌱 I'm currently working on skills like **MERN, DSA and many more**
+- 🌱 I'm currently working on skills like **MERN, DSA and many more...**
 
 - 📫 How to reach me **imtahirabatool04@gmail.com**
 
