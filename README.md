@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahira Batool</h1>
-<h3 align="center">MERN Stack developer from Pakistan</h3>
+<h3 align="center">Software Engineer from 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imtahirabatool&label=Profile%20views&color=0e75b6&style=flat" alt="imtahirabatool" /> </p>
 
